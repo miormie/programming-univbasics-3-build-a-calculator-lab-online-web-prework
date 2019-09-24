@@ -16,7 +16,7 @@ return(num1 * num2)
 end
 
 def modulo(num1, num2)
-num2 % num1 = 6
+num2 % num1 = 7
 end
 
 def square_root(num)
