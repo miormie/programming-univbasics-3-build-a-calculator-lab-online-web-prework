@@ -20,5 +20,5 @@ return(num2 / num1)
 end
 
 def square_root(num)
-return()
+Math.sqrt(num)
 end
